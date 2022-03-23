@@ -7,8 +7,11 @@
     "template": "survey",
     "cognitive_atlas_task_id": "",
     "contributors": [
-                     "Junghyun (Andy) Kim"                
-                    ], 
+        "Junghyun (Andy) Kim",
+        "Daniel J Wilson"
+    ],
     "time": 2,
-    "reference": ["Rosenberg, M. (1965). Society and the adolescent self-image . Princeton University Press."]
+    "reference": [
+        "Rosenberg, M. (1965). Society and the adolescent self-image . Princeton University Press."
+    ]
 }
