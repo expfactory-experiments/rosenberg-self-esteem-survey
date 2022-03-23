@@ -11,3 +11,4 @@ radio	I feel that I'm a person of worth, at least on an equal plane with others.
 radio	I wish I could have more respect for myself.	1	4	Strongly disagree: 0,Disagree: 1,Agree: 2,Strongly agree: 3	3,2,1,0
 radio	All in all, I am inclined to feel that I am a failure.	1	4	Strongly disagree: 0,Disagree: 1,Agree: 2,Strongly agree: 3	3,2,1,0
 radio	I take a positive attitude toward myself.	1	4	Strongly disagree: 0,Disagree: 1,Agree: 2,Strongly agree: 3	0,1,2,3
+instruction	Congratulations for completing this survey! Press <strong>finish</strong> to continue.	0	5		
